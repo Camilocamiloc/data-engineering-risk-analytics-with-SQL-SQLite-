@@ -1,0 +1,62 @@
+2026-03-28 23:12:43,433 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-28 23:12:43,433 - INFO - Procesando archivo: almacenes.csv
+2026-03-28 23:12:45,408 - INFO - OK: almacenes.csv | 0 registros nuevos | 1.97 segundos.
+2026-03-28 23:12:45,422 - INFO - Procesando archivo: creditos2.csv
+2026-03-28 23:12:45,556 - INFO - OK: creditos2.csv | 0 registros nuevos | 0.13 segundos.
+2026-03-28 23:12:45,557 - INFO - Procesando archivo: departamentos.csv
+2026-03-28 23:12:45,631 - INFO - OK: departamentos.csv | 35 registros nuevos | 0.07 segundos.
+2026-03-28 23:12:45,637 - INFO - Procesando archivo: municipios.csv
+2026-03-28 23:12:45,748 - INFO - OK: municipios.csv | 0 registros nuevos | 0.11 segundos.
+2026-03-28 23:12:45,748 - INFO - Procesando archivo: personas2.csv
+2026-03-28 23:12:45,890 - INFO - OK: personas2.csv | 0 registros nuevos | 0.14 segundos.
+2026-03-28 23:13:20,136 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-28 23:13:20,137 - INFO - Finalizado: No hay archivos .csv nuevos en /landing.
+2026-03-28 23:13:43,595 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-28 23:13:43,595 - INFO - Procesando archivo: almacenes.csv
+2026-03-28 23:13:45,583 - INFO - OK: almacenes.csv | 0 registros nuevos | 1.99 segundos.
+2026-03-28 23:13:45,592 - INFO - Procesando archivo: creditos2.csv
+2026-03-28 23:13:45,711 - INFO - OK: creditos2.csv | 0 registros nuevos | 0.12 segundos.
+2026-03-28 23:13:45,724 - INFO - Procesando archivo: departamentos.csv
+2026-03-28 23:13:45,797 - INFO - OK: departamentos.csv | 0 registros nuevos | 0.07 segundos.
+2026-03-28 23:13:45,797 - INFO - Procesando archivo: municipios.csv
+2026-03-28 23:13:45,906 - INFO - OK: municipios.csv | 0 registros nuevos | 0.11 segundos.
+2026-03-28 23:13:45,906 - INFO - Procesando archivo: personas2.csv
+2026-03-28 23:13:46,049 - INFO - OK: personas2.csv | 0 registros nuevos | 0.14 segundos.
+2026-03-28 23:45:27,348 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-28 23:45:27,364 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-28 23:45:27,380 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-28 23:53:44,604 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-29 10:51:42,480 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-29 10:52:50,091 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-29 10:52:50,094 - INFO - Validando calidad para almacenes...
+2026-03-29 10:55:34,432 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-29 10:55:34,433 - INFO - ✅ Calidad OK para almacenes (2 columnas detectadas).
+2026-03-29 10:56:15,241 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-29 10:56:15,259 - INFO - ✅ Calidad OK para almacenes (2 columnas detectadas).
+2026-03-29 10:56:15,277 - ERROR - ❌ FALLO DE CALIDAD en creditos: Se esperaban 7 columnas, pero llegaron 6.
+2026-03-29 10:59:53,504 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-29 10:59:53,504 - INFO - ✅ Calidad OK para almacenes (2 columnas detectadas).
+2026-03-29 10:59:53,512 - INFO - ✅ Calidad OK para creditos (6 columnas detectadas).
+2026-03-29 10:59:53,516 - INFO - ✅ Calidad OK para departamentos (3 columnas detectadas).
+2026-03-29 10:59:53,536 - INFO - ✅ Calidad OK para municipios (4 columnas detectadas).
+2026-03-29 10:59:53,552 - INFO - ✅ Calidad OK para personas (14 columnas detectadas).
+2026-03-29 11:20:16,078 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-29 11:20:16,080 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-29 11:20:16,088 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-29 11:20:16,132 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-29 11:20:16,137 - INFO - ✅ Calidad OK para almacenes (2 columnas detectadas).
+2026-03-29 11:20:16,139 - INFO - ✅ Calidad OK para creditos (6 columnas detectadas).
+2026-03-29 11:20:16,142 - INFO - ✅ Calidad OK para departamentos (3 columnas detectadas).
+2026-03-29 11:20:16,145 - INFO - ✅ Calidad OK para municipios (4 columnas detectadas).
+2026-03-29 11:20:16,147 - INFO - ✅ Calidad OK para personas (14 columnas detectadas).
+2026-03-29 11:20:16,154 - INFO - --- SISTEMA INICIALIZADO: Carpetas verificadas ---
+2026-03-29 11:20:16,154 - INFO - Procesando archivo: almacenes.csv
+2026-03-29 11:20:18,661 - INFO - OK: almacenes.csv | 0 registros nuevos | 2.51 segundos.
+2026-03-29 11:20:18,676 - INFO - Procesando archivo: creditos2.csv
+2026-03-29 11:20:18,799 - INFO - OK: creditos2.csv | 0 registros nuevos | 0.12 segundos.
+2026-03-29 11:20:18,799 - INFO - Procesando archivo: departamentos.csv
+2026-03-29 11:20:18,883 - INFO - OK: departamentos.csv | 0 registros nuevos | 0.08 segundos.
+2026-03-29 11:20:18,883 - INFO - Procesando archivo: municipios.csv
+2026-03-29 11:20:18,982 - INFO - OK: municipios.csv | 0 registros nuevos | 0.10 segundos.
+2026-03-29 11:20:18,982 - INFO - Procesando archivo: personas2.csv
+2026-03-29 11:20:19,134 - INFO - OK: personas2.csv | 0 registros nuevos | 0.15 segundos.
